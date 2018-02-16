@@ -1,0 +1,17 @@
+<templateSet group="Python">
+  <template name="dp" value="print('*' * 88)&#10;print($END$)" description="Debug print" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pp" value="from pprint import pprint&#10;print('*' * 88)&#10;pprint($END$)" description="Pretty print for debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pl" value="import logging&#10;logger = logging.getLogger('django')&#10;logger.debug('*' * 88)&#10;logger.debug($END$)" description="Logging for debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
