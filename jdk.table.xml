@@ -1,114 +1,22 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.7.14 virtualenv at ~/.pyenv/versions/pp" />
+      <name value="Python 3.6" />
       <type value="Python SDK" />
-      <version value="Python 2.7.14" />
-      <homePath value="$USER_HOME$/.pyenv/versions/pp/bin/python" />
+      <version value="Python 3.6.3" />
+      <homePath value="C:\ProgramData\Anaconda3\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.pyenv/versions/pp/lib/python2.7" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/pp/lib/python2.7/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/2.7.14/lib/python2.7" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/2.7.14/lib/python2.7/plat-darwin" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/2.7.14/lib/python2.7/lib-tk" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/2.7.14/lib/python2.7/plat-mac" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/2.7.14/lib/python2.7/plat-mac/lib-scriptpackages" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/pp/lib/python2.7/site-packages" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Remote Python 3.6.2 Docker (novartis_python:3.6.2)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.2" />
-      <homePath value="docker://novartis_python:3.6.2/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="novartis_python:3.6.2" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.2">
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1734165341/249573927" remote-root="/usr/local/lib/python3.6" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1734165341/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Remote Python 3.6.2 Docker (novartis_python:3.6.2) (1)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.2" />
-      <homePath value="docker://novartis_python:3.6.2//usr/local/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="novartis_python:3.6.2" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/local/bin/python" HELPERS_PATH="/opt/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.2">
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1238418737/249573927" remote-root="/usr/local/lib/python3.6" />
-              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2017.2/remote_sources/1238418737/-337502517" remote-root="/usr/local/lib/python3.6/site-packages" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6.2 virtualenv at ~/.pyenv/versions/novartis" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.2" />
-      <homePath value="$USER_HOME$/.pyenv/versions/novartis/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/3.6.2/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/novartis/lib/python3.6/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/-736853943" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/DLLs" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/Babel-2.5.0-py3.6.egg" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/ProgramData/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-313451744" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
@@ -127,18 +35,18 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.6 (nerve)" />
+      <name value="Python 3.6 (dl)" />
       <type value="Python SDK" />
-      <version value="Python 3.6.3" />
-      <homePath value="$USER_HOME$/.pyenv/versions/nerve/bin/python" />
+      <version value="Python 3.6.4" />
+      <homePath value="C:\Users\artem\AppData\Local\conda\conda\envs\dl\python.exe" />
       <roots>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.pyenv/versions/nerve/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/nerve/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/nerve/lib/python3.6/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1214318395" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/conda/conda/envs/dl/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/conda/conda/envs/dl/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/conda/conda/envs/dl" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/conda/conda/envs/dl/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/927100649" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
             <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
@@ -154,97 +62,7 @@
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/NerveLive_SOC_Engine-master" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6 (charm)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.3" />
-      <homePath value="$USER_HOME$/.pyenv/versions/charm/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/.pyenv/versions/charm/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/charm/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/charm/lib/python3.6/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/678783694" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/charm" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6 (nerve) (1)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.3" />
-      <homePath value="$USER_HOME$/.pyenv/versions/nerve/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/.pyenv/versions/nerve/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/nerve/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/nerve/lib/python3.6/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/1214318395" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/NerveLive_SOC_Engine" />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6 (trans)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.3" />
-      <homePath value="$USER_HOME$/.pyenv/versions/trans/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root url="file://$USER_HOME$/.pyenv/versions/trans/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/trans/lib/python3.6/lib-dynload" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/3.6.3/lib/python3.6" type="simple" />
-            <root url="file://$USER_HOME$/.pyenv/versions/trans/lib/python3.6/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Library/Caches/PyCharm2017.3/python_stubs/433394525" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects/trans" />
+      <additional />
     </jdk>
   </component>
 </application>

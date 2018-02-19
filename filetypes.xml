@@ -1,25 +1,5 @@
 <application>
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
-    <extensionMap>
-      <mapping pattern="fks" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-07-11-48-35" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-08-10-50-40" type="PLAIN_TEXT" />
-      <mapping pattern="tables" type="PLAIN_TEXT" />
-      <mapping pattern="indices" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-08-11-26-02" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-08-10-50-29" type="PLAIN_TEXT" />
-      <mapping pattern="ids" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-07-11-54-48" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-08-11-23-39" type="PLAIN_TEXT" />
-      <mapping pattern=".vzfifo" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-08-10-42-46" type="PLAIN_TEXT" />
-      <mapping pattern="boolean_columns" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-08-10-45-09" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-07-11-43-56" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-02-07-11-45-28" type="PLAIN_TEXT" />
-      <mapping pattern="core" type="PLAIN_TEXT" />
-      <mapping ext="dia" type="PLAIN_TEXT" />
-    </extensionMap>
   </component>
 </application>
