@@ -313,6 +313,14 @@
           <Count>17</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'date_helper'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'date_helper'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'formatsql'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -382,7 +390,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'date_helper'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'formatsql'">
