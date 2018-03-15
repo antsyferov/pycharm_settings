@@ -174,7 +174,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -358,7 +358,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>72</Count>
+          <Count>73</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '4 files'... ">
@@ -502,7 +502,7 @@
           <IdeaActionID>StepIntoMyCode</IdeaActionID>
           <ShortCut>'⌥⇧F7'</ShortCut>
           <Description>Step Into My Code</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -622,7 +622,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>89</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
     </option>
