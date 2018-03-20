@@ -409,6 +409,22 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'py.test for ko.Parse...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'py.test for ko.Parse...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'py.test in ko.py'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'py.test in ko.py'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'scrap'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
