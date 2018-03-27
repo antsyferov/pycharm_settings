@@ -558,7 +558,7 @@
           <IdeaActionID>StepIntoMyCode</IdeaActionID>
           <ShortCut>'⌥⇧F7'</ShortCut>
           <Description>Step Into My Code</Description>
-          <Count>69</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Out">
@@ -574,7 +574,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>649</Count>
+          <Count>654</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
@@ -694,7 +694,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>103</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
     </option>
