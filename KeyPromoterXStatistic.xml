@@ -105,6 +105,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'charm-django'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'charm-django'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'main'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -406,7 +414,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'charm-django'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'date_helper'">
@@ -615,6 +623,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'Unittests in test_parse_ids.py'</Description>
           <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'charm-django'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'charm-django'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'scratch_12'">
