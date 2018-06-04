@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>797</Count>
+          <Count>800</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -118,7 +118,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'main'</Description>
-          <Count>137</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scratch_12'">
@@ -414,7 +414,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
