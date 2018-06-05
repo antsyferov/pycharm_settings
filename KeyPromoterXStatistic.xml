@@ -86,7 +86,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>821</Count>
+          <Count>824</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -670,7 +670,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>675</Count>
+          <Count>679</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
