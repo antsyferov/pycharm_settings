@@ -9,6 +9,7 @@
       <mapping pattern="debug - 2018-06-15-10-00-02" type="PLAIN_TEXT" />
       <mapping pattern="SOC_DELETE_MOCKED_DATA" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-09-22-17" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
