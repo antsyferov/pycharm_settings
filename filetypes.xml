@@ -16,6 +16,7 @@
       <mapping pattern="debug - 2018-06-22-07-40-09" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-51-46" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-40-45" type="PLAIN_TEXT" />
+      <mapping pattern="run_rules_engine" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-10-00-02" type="PLAIN_TEXT" />
       <mapping pattern="SOC_DELETE_MOCKED_DATA" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-09-22-17" type="PLAIN_TEXT" />
