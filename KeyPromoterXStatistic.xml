@@ -745,6 +745,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'monitor'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'monitor'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'scratch_12'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
