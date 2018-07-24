@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'main'</Description>
-          <Count>179</Count>
+          <Count>182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scratch_12'">
@@ -270,6 +270,14 @@
           <IdeaActionID>ActivateMessagesToolWindow</IdeaActionID>
           <ShortCut>'⌘0'</ShortCut>
           <Description>Messages</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Move...">
+        <Item>
+          <IdeaActionID>Move</IdeaActionID>
+          <ShortCut>'F6'</ShortCut>
+          <Description>Move...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -774,7 +782,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>728</Count>
+          <Count>737</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
@@ -887,6 +895,14 @@
           <ShortCut>'⇧⌘B' or '⌃⇧B' or '⇧⌘Button1 Click' or '⇧Button2 Click'</ShortCut>
           <Description>Type Declaration</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Undo Move module members">
+        <Item>
+          <IdeaActionID>$Undo</IdeaActionID>
+          <ShortCut>'⌘Z'</ShortCut>
+          <Description>Undo Move module members</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update Project...">
