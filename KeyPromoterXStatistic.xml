@@ -126,7 +126,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'main'</Description>
-          <Count>182</Count>
+          <Count>186</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scratch_12'">
