@@ -137,6 +137,14 @@
           <Count>190</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'runserver_plus'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'runserver_plus'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'scratch_12'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -863,6 +871,14 @@
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'monitor'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'runserver_plus'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'runserver_plus'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'scratch_12'">
