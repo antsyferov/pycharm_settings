@@ -6,7 +6,15 @@
           <IdeaActionID>Git.Add</IdeaActionID>
           <ShortCut>'⌥⌘A'</ShortCut>
           <Description>Add</Description>
-          <Count>22</Count>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Close">
+        <Item>
+          <IdeaActionID>CloseContent</IdeaActionID>
+          <ShortCut>'⌘W'</ShortCut>
+          <Description>Close</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Column Selection Mode">
@@ -30,7 +38,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌘C'</ShortCut>
           <Description>Copy</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -38,7 +46,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'⇧⌘C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Paths">
@@ -94,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>896</Count>
+          <Count>901</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -134,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'main'</Description>
-          <Count>190</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'runserver_plus'">
@@ -159,6 +167,14 @@
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'scratch_16'</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'scratch_25'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'scratch_25'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'scratch_6'">
@@ -230,7 +246,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'⇧⌘F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>10</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Force Run to Cursor">
@@ -254,7 +270,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'⇧⌘F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>28</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump To Source">
@@ -318,7 +334,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>143</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -398,7 +414,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Tests'</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Unnamed'">
@@ -494,7 +510,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'⌥⌘Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>133</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '4 files'... ">
@@ -511,6 +527,14 @@
           <ShortCut>'⌃⇧R'</ShortCut>
           <Description>Run 'Dockerfile'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Railian_MoodAPI'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'⌃R'</ShortCut>
+          <Description>Run 'Railian_MoodAPI'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests in test_pa...'">
@@ -542,7 +566,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'charm-django'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'date_helper'">
@@ -705,6 +729,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'scratch_25'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'scratch_25'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'scratch_6'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -830,7 +862,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>747</Count>
+          <Count>753</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
@@ -862,7 +894,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'charm-django'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'monitor'">
@@ -886,6 +918,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'scratch_12'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'scratch_25'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'scratch_25'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -974,7 +1014,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'⌘T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>13</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="VCS Operations Popup...">
@@ -990,7 +1030,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>81</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
