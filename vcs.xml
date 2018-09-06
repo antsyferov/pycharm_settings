@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/lukeaus/django-docker-graphql-example" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Novartis-DevelopmentInformatics/NerveLive_SOC_Engine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
