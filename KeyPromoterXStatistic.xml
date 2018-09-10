@@ -334,7 +334,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>156</Count>
+          <Count>157</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -567,6 +567,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'charm-django'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'count_word'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'count_word'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'date_helper'">
