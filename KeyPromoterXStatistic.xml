@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>907</Count>
+          <Count>909</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
