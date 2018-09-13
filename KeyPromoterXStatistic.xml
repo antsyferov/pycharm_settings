@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>903</Count>
+          <Count>907</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -870,7 +870,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>753</Count>
+          <Count>756</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
@@ -990,7 +990,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'⌘6'</ShortCut>
           <Description>TODO</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
