@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>910</Count>
+          <Count>911</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'main'</Description>
-          <Count>213</Count>
+          <Count>216</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'runserver_plus'">
@@ -855,6 +855,14 @@
           <ShortCut>'⌥⇧⌘D'</ShortCut>
           <Description>Show Local Changes as UML</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Step Into">
+        <Item>
+          <IdeaActionID>StepInto</IdeaActionID>
+          <ShortCut>'F7'</ShortCut>
+          <Description>Step Into</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into My Code">
