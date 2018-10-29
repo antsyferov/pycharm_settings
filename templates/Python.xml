@@ -9,7 +9,7 @@
       <option name="Python" value="true" />
     </context>
   </template>
-  <template name="pl" value="import logging&#10;logger = logging.getLogger('django')&#10;logger.debug('*' * 88)&#10;logger.debug($END$)" description="Logging for debug" toReformat="false" toShortenFQNames="true">
+  <template name="pl" value="import logging&#10;logger = logging.getLogger('django')&#10;logger.info('*' * 88)&#10;logger.info($END$)" description="Logging for debug" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
