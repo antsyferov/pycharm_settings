@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>939</Count>
+          <Count>940</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -110,7 +110,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'Tests'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests in test_parse_ids.py'">
@@ -230,7 +230,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'⌥F8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>24</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find Usages">
@@ -414,7 +414,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'Tests'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Unnamed'">
@@ -510,7 +510,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
