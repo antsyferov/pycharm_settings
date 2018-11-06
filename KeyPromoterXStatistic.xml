@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>962</Count>
+          <Count>967</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -470,7 +470,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'runserver_plus'</Description>
-          <Count>51</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'scratch_16'">
@@ -870,7 +870,7 @@
           <IdeaActionID>StepInto</IdeaActionID>
           <ShortCut>'F7'</ShortCut>
           <Description>Step Into</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Step Into My Code">
@@ -894,7 +894,7 @@
           <IdeaActionID>StepOver</IdeaActionID>
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
-          <Count>868</Count>
+          <Count>876</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
@@ -950,7 +950,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'⌘F2'</ShortCut>
           <Description>Stop 'runserver_plus'</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'scratch_12'">
