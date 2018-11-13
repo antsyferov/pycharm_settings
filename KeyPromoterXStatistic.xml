@@ -142,7 +142,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'⌃D'</ShortCut>
           <Description>Debug 'main'</Description>
-          <Count>218</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'runserver_plus'">
