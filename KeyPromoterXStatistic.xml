@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1157</Count>
+          <Count>1166</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -870,7 +870,7 @@
           <IdeaActionID>RunToCursor</IdeaActionID>
           <ShortCut>'⌥F9'</ShortCut>
           <Description>Run to Cursor</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Select All">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>ViewBreakpoints</IdeaActionID>
           <ShortCut>'⇧⌘F8'</ShortCut>
           <Description>View Breakpoints...</Description>
-          <Count>148</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Zoom In">
