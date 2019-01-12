@@ -102,7 +102,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1192</Count>
+          <Count>1193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -454,7 +454,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'charm-django'</Description>
-          <Count>21</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'date_helper'">
@@ -622,7 +622,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'charm-django'</Description>
-          <Count>21</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'count_word'">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>78</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
