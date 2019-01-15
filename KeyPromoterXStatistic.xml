@@ -913,6 +913,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run manage.py Task...">
+        <Item>
+          <IdeaActionID>Django.RunManageTaskAction</IdeaActionID>
+          <ShortCut>'⌥R'</ShortCut>
+          <Description>Run manage.py Task...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run to Cursor">
         <Item>
           <IdeaActionID>RunToCursor</IdeaActionID>
@@ -1158,7 +1166,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>134</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
