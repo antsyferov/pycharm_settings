@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1276</Count>
+          <Count>1280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -582,7 +582,7 @@
           <IdeaActionID>Resume</IdeaActionID>
           <ShortCut>'⌥⌘R' or 'F9'</ShortCut>
           <Description>Resume Program</Description>
-          <Count>85</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
