@@ -25,6 +25,7 @@
       <mapping pattern="TRIAL_FEASIBILITY_AND_ALLOCATION_BASE_METRICS_ACTIVITY" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
+      <mapping pattern="SOC_AFTER_RUN_SCRIPT" type="SQL" />
     </extensionMap>
   </component>
 </application>
