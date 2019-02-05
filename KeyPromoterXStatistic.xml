@@ -513,6 +513,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'geocode'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'geocode'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'monitor'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -727,6 +735,14 @@
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'geo'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'geocode'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'⌃⇧R'</ShortCut>
+          <Description>Run 'geocode'</Description>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'initial.sql'... ">
