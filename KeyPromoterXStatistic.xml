@@ -1342,7 +1342,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'⌥F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>149</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
