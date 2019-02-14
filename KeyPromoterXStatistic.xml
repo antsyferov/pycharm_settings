@@ -382,7 +382,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>203</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -558,7 +558,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'runserver_plus'</Description>
-          <Count>173</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'scratch_16'">
@@ -830,7 +830,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'runserver_plus'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'scrap'">
