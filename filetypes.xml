@@ -27,6 +27,7 @@
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping pattern="SOC_AFTER_RUN_SCRIPT" type="SQL" />
+      <mapping pattern="SOC_INPUT_MATERIALIZED_VIEWS" type="SQL" />
     </extensionMap>
   </component>
 </application>
