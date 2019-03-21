@@ -4,8 +4,8 @@
     <option name="compactDropdowns" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-4ebae17a:1655b8acc7d:-8000" />
     <option name="version" value="3.5.0.1" />
