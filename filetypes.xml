@@ -9,6 +9,7 @@
       <mapping pattern="debug - 2018-06-20-11-32-45" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-28-13" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-42-45" type="PLAIN_TEXT" />
+      <mapping pattern="tables" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-04-27-15-39-33" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-52-46" type="PLAIN_TEXT" />
       <mapping pattern="docker-entrypoint" type="PLAIN_TEXT" />
