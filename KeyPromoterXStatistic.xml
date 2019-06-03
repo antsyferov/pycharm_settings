@@ -894,7 +894,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'runserver_plus'</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'scrap'">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'⌘9' or '⇧⌘9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
