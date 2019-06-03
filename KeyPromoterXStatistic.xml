@@ -110,7 +110,15 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1366</Count>
+          <Count>1368</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Test: projects.tests.ProjectUpdateViewT…_project_update_does_not_allow_negatives'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'Test: projects.tests.ProjectUpdateViewT…_project_update_does_not_allow_negatives'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Tests'">
@@ -497,6 +505,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Test: projects.tests.ProjectUpdateViewTestCase'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌘R'</ShortCut>
+          <Description>Rerun 'Test: projects.tests.ProjectUpdateViewTestCase'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Tests'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -678,7 +694,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'tests'</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'thr'">
@@ -1126,7 +1142,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'⌃R'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'thr'">
@@ -1287,6 +1303,14 @@
           <ShortCut>'F8'</ShortCut>
           <Description>Step Over</Description>
           <Count>938</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Test: projects.tests.ProjectUpdateViewTestCase.test_project_update_does_not_allow_negatives'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌘F2'</ShortCut>
+          <Description>Stop 'Test: projects.tests.ProjectUpdateViewTestCase.test_project_update_does_not_allow_negatives'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Tests'">
