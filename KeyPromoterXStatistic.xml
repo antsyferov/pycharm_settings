@@ -1590,7 +1590,7 @@
           <IdeaActionID>UML.ZoomIn</IdeaActionID>
           <ShortCut>'⌘+' or '⌘='</ShortCut>
           <Description>Zoom In</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
     </option>
