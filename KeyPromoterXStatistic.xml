@@ -110,7 +110,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'⌘5'</ShortCut>
           <Description>Debug</Description>
-          <Count>1372</Count>
+          <Count>1374</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Test: projects.tests.ProjectUpdateViewT…_project_update_does_not_allow_negatives'">
@@ -422,7 +422,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'⌘1'</ShortCut>
           <Description>Project</Description>
-          <Count>240</Count>
+          <Count>241</Count>
         </Item>
       </Statistic>
       <Statistic Action="Properties">
@@ -638,7 +638,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'⌘R'</ShortCut>
           <Description>Rerun 'runserver_plus'</Description>
-          <Count>268</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'scratch_16'">
