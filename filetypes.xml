@@ -8,6 +8,7 @@
       <mapping pattern="debug - 2018-06-20-11-53-46" type="PLAIN_TEXT" />
       <mapping pattern="SOC_INPUT_SITE_TABLES" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-09-34-17" type="PLAIN_TEXT" />
+      <mapping pattern="uuid" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-32-45" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-28-13" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-42-45" type="PLAIN_TEXT" />
