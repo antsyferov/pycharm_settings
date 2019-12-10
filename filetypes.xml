@@ -33,9 +33,8 @@
       <mapping pattern="TRIAL_FEASIBILITY_AND_ALLOCATION_BASE_METRICS_ACTIVITY" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="SOC_AFTER_RUN_SCRIPT" type="SQL" />
       <mapping pattern="SOC_INPUT_MATERIALIZED_VIEWS" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
