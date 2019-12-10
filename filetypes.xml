@@ -26,6 +26,7 @@
       <mapping pattern="debug - 2018-06-20-11-40-45" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-10-00-02" type="PLAIN_TEXT" />
       <mapping pattern="SOC_DELETE_MOCKED_DATA" type="PLAIN_TEXT" />
+      <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-09-22-17" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2019-08-21-16-30-47" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-29-13" type="PLAIN_TEXT" />
