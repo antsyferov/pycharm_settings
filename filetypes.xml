@@ -5,13 +5,14 @@
       <mapping pattern="debug - 2018-06-20-11-53-46" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-09-34-17" type="PLAIN_TEXT" />
       <mapping pattern="SOC_INPUT_AFTER_SCRIPTS_MATERIALIZED_VIEWS" type="PLAIN_TEXT" />
+      <mapping pattern="docker-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="uuid" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-32-45" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-28-13" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-42-45" type="PLAIN_TEXT" />
       <mapping pattern="tables" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-04-27-15-39-33" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-52-46" type="PLAIN_TEXT" />
+      <mapping pattern="debug - 2018-04-27-15-39-33" type="PLAIN_TEXT" />
       <mapping pattern="SOC_INPUT_SITE_TABLES" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2019-09-23-17-33-24" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-27-13" type="PLAIN_TEXT" />
@@ -21,7 +22,6 @@
       <mapping pattern="debug - 2018-06-15-09-33-17" type="PLAIN_TEXT" />
       <mapping pattern="run_rules_engine" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-40-45" type="PLAIN_TEXT" />
-      <mapping pattern="docker-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-10-00-02" type="PLAIN_TEXT" />
       <mapping pattern="SOC_DELETE_MOCKED_DATA" type="PLAIN_TEXT" />
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
