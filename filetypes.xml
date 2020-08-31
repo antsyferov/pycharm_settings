@@ -33,6 +33,7 @@
       <mapping ext="tmpl" type="PLAIN_TEXT" />
       <mapping pattern="SOC_OPEN_QUERY_HISTORY" type="SQL" />
       <mapping pattern="SOC_INPUT_MATERIALIZED_VIEWS" type="SQL" />
+      <mapping pattern="SOC_MONTHLY_AFTER_RUN_SCRIPT" type="SQL" />
       <mapping pattern="SOC_AFTER_RUN_SCRIPT" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
