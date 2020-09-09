@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="2bf9c8a4-7074-40c9-974c-e03d6a5229c1" name="juls.pp.ua" url="http://juls.pp.ua">
+        <fileTransfer rootFolder="/home/cifer" accessType="SFTP" host="juls.pp.ua" port="22" sshConfigId="af7f477e-afdd-42d7-a5cb-67966b75aca2" sshConfig="juls.pp.ua">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
