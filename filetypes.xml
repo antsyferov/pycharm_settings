@@ -25,6 +25,7 @@
       <mapping pattern="debug - 2018-06-20-11-40-45" type="PLAIN_TEXT" />
       <mapping pattern="docker-entrypoint" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-27-13" type="PLAIN_TEXT" />
+      <mapping pattern="model_tables" type="PLAIN_TEXT" />
       <mapping pattern="uuid" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-04-27-15-39-33" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-52-46" type="PLAIN_TEXT" />
