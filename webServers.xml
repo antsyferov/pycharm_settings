@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="2bf9c8a4-7074-40c9-974c-e03d6a5229c1" name="juls.pp.ua" url="http://juls.pp.ua">
-        <fileTransfer rootFolder="/home/cifer" accessType="SFTP" host="juls.pp.ua" port="22" sshConfigId="af7f477e-afdd-42d7-a5cb-67966b75aca2" sshConfig="juls.pp.ua">
+        <fileTransfer rootFolder="/home/cifer" accessType="SFTP" host="shameless.pp.ua" port="22" sshConfigId="e15cc438-6afb-4e97-9888-979a9c8d8073" sshConfig="cifer@shameless.pp.ua:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

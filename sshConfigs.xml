@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="localhost" id="af7f477e-afdd-42d7-a5cb-67966b75aca2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" />
+    </configs>
+  </component>
+</application>
