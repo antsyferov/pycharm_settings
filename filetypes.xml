@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Caddyfile" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2019-08-21-16-30-47" type="PLAIN_TEXT" />
+      <mapping pattern="backup-cron" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-51-46" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-32-45" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-42-45" type="PLAIN_TEXT" />
