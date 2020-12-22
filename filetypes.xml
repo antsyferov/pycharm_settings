@@ -28,6 +28,7 @@
       <mapping pattern="model_tables" type="PLAIN_TEXT" />
       <mapping pattern="uuid" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-04-27-15-39-33" type="PLAIN_TEXT" />
+      <mapping pattern="surv-cron" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-52-46" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-53-46" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
