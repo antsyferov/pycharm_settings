@@ -16,9 +16,9 @@
       <mapping pattern="SOC_INPUT_AFTER_SCRIPTS_MATERIALIZED_VIEWS" type="PLAIN_TEXT" />
       <mapping pattern="TRIAL_FEASIBILITY_AND_ALLOCATION_BASE_METRICS_ACTIVITY" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-15-12-03-17" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2019-09-23-17-33-24" type="PLAIN_TEXT" />
-      <mapping pattern="debug - 2018-06-15-09-33-17" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-20-11-28-13" type="PLAIN_TEXT" />
+      <mapping pattern="debug - 2018-06-15-09-33-17" type="PLAIN_TEXT" />
+      <mapping pattern="debug - 2019-09-23-17-33-24" type="PLAIN_TEXT" />
       <mapping pattern="debug - 2018-06-22-07-40-09" type="PLAIN_TEXT" />
       <mapping pattern="tables" type="PLAIN_TEXT" />
       <mapping pattern="SOC_DELETE_MOCKED_DATA" type="PLAIN_TEXT" />
@@ -43,6 +43,7 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="conf" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="csv" approved="true" type="CSV" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
