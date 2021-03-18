@@ -54,6 +54,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="antsyar1" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:gregmalcolm/python_koans.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PycharmProjects" />
