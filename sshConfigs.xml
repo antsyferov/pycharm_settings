@@ -2,7 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig host="localhost" id="af7f477e-afdd-42d7-a5cb-67966b75aca2" keyPath="$USER_HOME$/.ssh/id_rsa" port="22" nameFormat="DESCRIPTIVE" />
-      <sshConfig authType="PASSWORD" host="157.52.171.192" id="e15cc438-6afb-4e97-9888-979a9c8d8073" port="22" nameFormat="DESCRIPTIVE" username="cifer" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="157.52.171.192" id="e15cc438-6afb-4e97-9888-979a9c8d8073" port="22" nameFormat="DESCRIPTIVE" username="cifer" />
     </configs>
   </component>
 </application>
